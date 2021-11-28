@@ -1,0 +1,23 @@
+{
+  "name": "dns-server",
+  "version": "0.0.1",
+  "description": "dns server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DragonCat1/dns-server.git"
+  },
+  "keywords": [
+    "dns",
+    "server"
+  ],
+  "author": "DragonCat1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DragonCat1/dns-server/issues"
+  },
+  "homepage": "https://github.com/DragonCat1/dns-server#readme"
+}
